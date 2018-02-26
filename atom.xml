@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wllvcxz.github.io/"/>
-  <updated>2018-02-26T08:47:22.000Z</updated>
+  <updated>2018-02-26T13:49:49.000Z</updated>
   <id>https://wllvcxz.github.io/</id>
   
   <author>
@@ -21,17 +21,19 @@
     <link href="https://wllvcxz.github.io/2018/02/26/post-test2/"/>
     <id>https://wllvcxz.github.io/2018/02/26/post-test2/</id>
     <published>2018-02-26T08:32:13.000Z</published>
-    <updated>2018-02-26T08:47:22.000Z</updated>
+    <updated>2018-02-26T13:49:49.000Z</updated>
     
-    <content type="html"><![CDATA[<p>llama</p><img src="/2018/02/26/post-test2/test_pic.jpg" title="这是一个图片的说明">]]></content>
+    <content type="html"><![CDATA[<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><p>insert a picture:</p><center><br>    <img src="/2018/02/26/post-test2/test_pic.jpg" width="150" height="300" alt="this is a image"><br></center><p>this is a inline formular \( f(x) = x + 3 \).</p><p>this is a formular:<br>$$f(x) = x*x$$</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;llama&lt;/p&gt;
-&lt;img src=&quot;/2018/02/26/post-test2/test_pic.jpg&quot; title=&quot;这是一个图片的说明&quot;&gt;
+        &lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;
+&lt;/script&gt;
 
+
+&lt;p&gt;insert a 
       
     
     </summary>
