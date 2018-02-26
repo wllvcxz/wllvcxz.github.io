@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wllvcxz.github.io/"/>
-  <updated>2018-02-26T13:55:19.000Z</updated>
+  <updated>2018-02-26T14:30:04.000Z</updated>
   <id>https://wllvcxz.github.io/</id>
   
   <author>
@@ -17,13 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>中文测试</title>
+    <link href="https://wllvcxz.github.io/2018/02/26/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://wllvcxz.github.io/2018/02/26/中文测试/</id>
+    <published>2018-02-26T14:30:04.000Z</published>
+    <updated>2018-02-26T14:30:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>post_test2</title>
     <link href="https://wllvcxz.github.io/2018/02/26/post-test2/"/>
     <id>https://wllvcxz.github.io/2018/02/26/post-test2/</id>
     <published>2018-02-26T08:32:13.000Z</published>
-    <updated>2018-02-26T13:55:19.000Z</updated>
+    <updated>2018-02-26T14:28:58.000Z</updated>
     
-    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script><p>insert a picture:</p><center><br>    <img src="/2018/02/26/post-test2/test_pic.jpg" width="150" height="300" alt="this is a image"><br></center><p>this is a inline formular \( f(x) = x + 3 \).</p><p>this is a formular:<br>$$f(x) = x*x$$</p>]]></content>
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script><p>insert a picture:</p><center><br>    <img src="/2018/02/26/post-test2/test_pic.jpg" width="150" height="300" alt="this is a image"><br></center><p>this is a inline formular \( f(x) = x + 3 \).</p><p>this is a formular:<br>$$f(x) = x*x$$</p><p>中文测试</p>]]></content>
     
     <summary type="html">
     
